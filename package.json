@@ -1,0 +1,26 @@
+{
+  "name": "node_reptile",
+  "version": "1.0.0",
+  "description": "node_reptile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luKorea/node_reptile.git"
+  },
+  "keywords": [
+    "爬虫"
+  ],
+  "author": "korealu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luKorea/node_reptile/issues"
+  },
+  "homepage": "https://github.com/luKorea/node_reptile#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
